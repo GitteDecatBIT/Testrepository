@@ -6,4 +6,6 @@ This is a test for Github
 - item 1
 - item 2
 
-
+col1 | col 2
+--|-- 
+item1 | item2
